@@ -3,7 +3,7 @@ node_js:
   - '10'
 branches:
   only:
-    - master
+    - dev
 cache:
   yarn: true
 script:
@@ -19,4 +19,5 @@ deploy:
   github_token: $GH_TOKEN
   keep_history: true
   on:
-    branch: master
+    branch: dev
+  target_branch: master
