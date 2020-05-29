@@ -20,5 +20,8 @@ DevOps_School_1.0
 # Курсовая работа
 https://gitlab.com/t-systems-devops-school/coursework
 
+# Hackerrank
+https://www.hackerrank.com/
+
 # Записи лекций
 \\\t-systems.ru\Public\Telco\TSO\FxP\DevOps_School_1.0\
