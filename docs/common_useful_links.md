@@ -11,6 +11,9 @@ https://yam.telekom.de/groups/devops-school-rus
 
 \\\t-systems.ru\Public\Telco\TSO\FxP\Devops_School\0_Course_Presentation\Course_Presentation_2020_05_13.mp4
 
+# Расписание занятий
+https://yam.telekom.de/groups/devops-school-rus
+
 # Инфо-канал в Telegram
 "DevOps School Info"
 
@@ -18,7 +21,7 @@ https://yam.telekom.de/groups/devops-school-rus
 DevOps_School_1.0
 
 # Курсовая работа
-https://gitlab.com/t-systems-devops-school/coursework
+https://gitlab.com/t-systems-devops-school/coursework/tchallenge-service
 
 # Hackerrank
 https://www.hackerrank.com/
